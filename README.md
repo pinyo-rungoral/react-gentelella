@@ -1,5 +1,5 @@
 # react-gentelella
-create-react-app + gentelella template
+create-react-app + https://github.com/puikinsh/gentelella
 
 # how to use
 - clone repository
