@@ -1,0 +1,30 @@
+{
+  "name": "react-gentelella",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinyo-rungoral/react-gentelella.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinyo-rungoral/react-gentelella/issues"
+  },
+  "homepage": "https://github.com/pinyo-rungoral/react-gentelella#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-react": "^3.1.0",
+    "gulp-typescript": "^5.0.0-alpha.3",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "run-sequence": "^2.2.1",
+    "typescript": "^3.1.0-dev.20180922"
+  }
+}
