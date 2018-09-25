@@ -4,5 +4,5 @@ create-react-app + gentelella template
 # how to use
 - clone repository
 - open cmd and then navigate to /demo
-- npm start
+- type "npm start"
 
