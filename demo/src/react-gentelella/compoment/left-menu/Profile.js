@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 export class Profile extends Component{
     render(){
-        return <div {...this.props} className="profile clearfix">
+        return <div className="profile clearfix">
             <div className="profile_pic">
                 <img src={ this.props.avatar} alt="..." className="img-circle profile_img" />              
             </div>

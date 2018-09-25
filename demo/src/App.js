@@ -17,6 +17,31 @@ class App extends Component {
             avatar:'/gentelella/build/images/img.jpg',
             username:'Pinyo Rungoral',
             role:'Administrator'
+          },
+          menu:{
+            sections:[
+              {
+                header:'Generial',
+                items:[
+                  {
+                    icon:'home',
+                    text:'Home',
+                    items:[]
+                  },
+                  {
+                    icon:'edit',
+                    text:'Form',
+                    items:[
+                      {
+                        icon:'edit',
+                        text:'item1',
+                        items:[]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
           }
         }
     };
